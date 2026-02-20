@@ -20,7 +20,7 @@ public class SimpleHttpServer {
 		MIME_TYPES.put(".png", "image/png");
 		MIME_TYPES.put(".gif", "image/gif");
 		MIME_TYPES.put(".ico", "image/x-icon");
-		//MIME_TYPES.put(".svg", "image/svg+xml");
+		MIME_TYPES.put(".svg", "image/svg+xml");
 		//MIME_TYPES.put(".txt", "text/text");
 	}
 
