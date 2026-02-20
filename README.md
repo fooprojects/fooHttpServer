@@ -1,4 +1,4 @@
-## A lightweight HTTP server for educational purposes. ##
+## A simple HTTP server for educational purposes. ##
 
 **Compile:**
 > **$** javac fooHttpServer.java SimpleHttpServer.java
