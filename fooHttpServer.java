@@ -83,7 +83,7 @@ public class fooHttpServer {
 	}
 
 	private static void printUsage() {
-		System.out.println("Simple Web Server - A lightweight HTTP server for serving static files");
+		System.out.println("Simple Http Server - A lightweight HTTP server for educational purposes");
 		System.out.println();
 		System.out.println("Usage: java fooHttpServer [OPTIONS]");
 		System.out.println();
