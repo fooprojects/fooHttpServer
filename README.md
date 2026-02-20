@@ -1,3 +1,5 @@
+## A lightweight HTTP server for educational purposes. ##
+
 **Compile:**
 > **$** javac fooHttpServer.java SimpleHttpServer.java
 
@@ -6,7 +8,7 @@
 
 **Help:**
 > **$** java fooHttpServer -h <br/>
-> Simple Web Server - A lightweight HTTP server for serving static files
+> Simple Web Server - A lightweight HTTP server for educational purposes
 > 
 > Usage: java fooHttpServer [OPTIONS] <br/>
 > 
