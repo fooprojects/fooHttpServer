@@ -8,7 +8,7 @@
 
 **Help:**
 > **$** java fooHttpServer -h <br/>
-> Simple Http Server - An HTTP server for educational purposes
+> fooProjects http server - A simple HTTP server for educational purposes
 > 
 > Usage: java fooHttpServer [OPTIONS] <br/>
 > 
