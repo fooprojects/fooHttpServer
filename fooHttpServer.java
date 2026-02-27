@@ -3,7 +3,7 @@ import java.io.IOException;
 
 public class fooHttpServer {
 	private static final int DEFAULT_PORT = 8080;
-	private static final String DEFAULT_WEB_ROOT = "./www";
+	private static final String DEFAULT_WEB_ROOT = "www";
 
 	public static void main(String[] args) {
 		int port = DEFAULT_PORT;
@@ -101,3 +101,4 @@ public class fooHttpServer {
 		System.out.println("Press Ctrl+C to stop the server");
 	}
 }
+
