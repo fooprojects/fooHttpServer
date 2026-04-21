@@ -79,11 +79,11 @@ public class SimpleHttpServer {
 				return;
 			}
 
-			// Default to index.html if root path
-			if (path.equals("/")) {
-				path = "/index.html";
+			// Default to index.html if no page
+			if (path.endsWith("/") || path.endsWith("\\")) {
+				path = path.concat("index.html");
 			}
-
+				
 			// Construct file path
 			File file = new File(webRoot + path);
 
